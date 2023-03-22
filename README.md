@@ -1,5 +1,5 @@
 ## World-Predy
-##### Using Pycaret 3.10 to create pipeline, then recreate using EDA in Pandas and modeling in Scikit-learn. It may include schema modeling using SQL
+##### Leveraging ETL pipelines and machine learning techniques to analyze Olympics data and develop a predictive model that can identify athletes most likely to win medals in their respective events
 ---
 <b> Introduction </b>
 
