@@ -1,9 +1,11 @@
 <h1 align="center" style="color:MediumSeaGreen;"> <b> PROJECT SCOUTY  </b></h1>
 
-<img src="https://media3.giphy.com/media/68QRW1GqBH5tFNGXPZ/giphy.gif?cid=ecf05e47z1isu886ykeb9dzundi12x98pbiekixmsjy715ez&rid=giphy.gif&ct=g" alt="Olympic Medals" width="550" height="400" align="center">
-<img src="https://media2.giphy.com/media/VrAwk24umBK4hzWY8n/giphy.gif?cid=ecf05e47tv5q6hvukkvujf7n2227wbmdot1vuqv7fw0uop3b&rid=giphy.gif&ct=g" alt="Olympic Medals" width="550" height="400" align="center">
 
----
+
+<img src="https://media3.giphy.com/media/68QRW1GqBH5tFNGXPZ/giphy.gif?cid=ecf05e47z1isu886ykeb9dzundi12x98pbiekixmsjy715ez&rid=giphy.gif&ct=g" alt="Olympic Medals" width="800" align="center">
+
+
+
 
 <p align="center">
   <a href="#Introduction">Introduction</a> •
@@ -120,3 +122,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 </p>
+
+<img src="https://media2.giphy.com/media/VrAwk24umBK4hzWY8n/giphy.gif?cid=ecf05e47tv5q6hvukkvujf7n2227wbmdot1vuqv7fw0uop3b&rid=giphy.gif&ct=g" alt="Olympic Medals" width="800" align="center">
