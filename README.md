@@ -1,10 +1,7 @@
 <h1 align="center" style="color:MediumSeaGreen;"> <b> PROJECT SCOUTY  </b></h1>
 
 
-
 <img src="https://media3.giphy.com/media/68QRW1GqBH5tFNGXPZ/giphy.gif?cid=ecf05e47z1isu886ykeb9dzundi12x98pbiekixmsjy715ez&rid=giphy.gif&ct=g" alt="Olympic Medals" width="800" align="center">
-
-
 
 
 <p align="center">
@@ -20,13 +17,10 @@
 
 ---
 
-
-
 ##  **Introduction**
 <p>
 The Olympic Games are the world's most prestigious sporting event, featuring the world's best athletes competing for gold, silver, and bronze medals. With over a century of Olympic data, it is possible to use machine learning algorithms to predict which participant is likely to win a medal in a particular event. In this project, we will use Olympics data from 1896 to 2016 to develop a predictive model that can identify athletes who are most likely to win medals in their respective events. </p>
 
-<br>
 <br>
 
 ## **Objective**
@@ -35,15 +29,12 @@ The Olympic Games are the world's most prestigious sporting event, featuring the
 <p>The objective of this project is to create a dashboard that when a new athlete details it plugged in, it can predict the likelihood of an athlete winning a medal in the Olympic Games. By analyzing past data, we can identify patterns and trends that can help us predict future outcomes. </p>
 
 <br>
-<br>
 
 ## **Problem Statement**
 
 The Olympic Games are highly competitive events, with thousands of athletes competing for medals. It is difficult to identify which athlete is most likely to win a medal in a particular event, as there are many factors that can influence an athlete's performance. This project aims to solve this problem by using machine learning algorithms to analyze past Olympics data and predict which athlete is most likely to win a medal in their respective event.
 
 <br>
-<br>
-
 
 ## **Data**
 
@@ -61,8 +52,6 @@ The predictive model developed in this project has several potential use cases:
 - Used by broadcasters and media companies to provide more accurate predictions and analysis of the Olympic Games.
 
 <br>
-<br>
-
 
 ## **Scope**
 
@@ -72,15 +61,11 @@ From a technical perspective, the project involves data preprocessing and cleani
 `'Business'` <br>
 From a business perspective, the predictive model can provide valuable insights for coaches, athletes, and sports analysts, helping them make more informed decisions and optimize performance.
 
-
-<br>
 <br>
 
 ## **Something Unique**
 > Still figuring it out the 10% that is not [crap](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
 
-
-<br>
 <br>
 
 ## **Language and Tools**
@@ -92,9 +77,6 @@ From a business perspective, the predictive model can provide valuable insights 
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
  </p>
 
-
-
-<br>
 <br>
 
 ## **License**
@@ -122,5 +104,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 </p>
-
-<img src="https://media2.giphy.com/media/VrAwk24umBK4hzWY8n/giphy.gif?cid=ecf05e47tv5q6hvukkvujf7n2227wbmdot1vuqv7fw0uop3b&rid=giphy.gif&ct=g" alt="Olympic Medals" width="800" align="center">
