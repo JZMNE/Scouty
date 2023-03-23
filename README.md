@@ -16,8 +16,8 @@
 </p>
 
 ---
-
-##  **Introduction** :round_pushpin:
+:round_pushpin:
+##  **Introduction** 
 <p>
 The Olympic Games are the world's most prestigious sporting event, featuring the world's best athletes competing for gold, silver, and bronze medals. With over a century of Olympic data, it is possible to use machine learning algorithms to predict which participant is likely to win a medal in a particular event. In this project, we will use Olympics data from 1896 to 2016 to develop a predictive model that can identify athletes who are most likely to win medals in their respective events. </p>
 
@@ -79,7 +79,8 @@ From a business perspective, the predictive model can provide valuable insights 
 
 <br>
 
-##  **License**  :exclamation:
+ :exclamation:
+##  **License** 
 
 <p>Scouty is license under the MIT license. </p>
 
