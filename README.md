@@ -88,9 +88,7 @@ From a business perspective, the predictive model can provide valuable insights 
 
 
 ## :warning: **Something Unique** 
-> Still figuring it out the 10% that is not [crap](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
-
-> __This ReadMe is subject to changes as ideas comes and goes.__
+> __This ReadMe is subject to changes as ideas comes and goes.__ Still figuring it out the 10% that is not [crap](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
 <h6><b> Rubber Duck Ideas </b></h6>
 
 - Perform identical operations for data preparation and manipulation in SQL and Python.
