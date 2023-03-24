@@ -65,6 +65,13 @@ From a business perspective, the predictive model can provide valuable insights 
 
 ## :sunglasses: **Something Unique** 
 > Still figuring it out the 10% that is not [crap](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
+<h6><b> Rubber Duck Ideas </b></h6>
+<ul> Perform identical operations for data preparation and manipulation in SQL and Python. </ul> 
+<ul> Build an ETL process that transforms and loads the data into a suitable format for forecasting the performance of new athletes based on a spreadsheet file provided by an athletics scout.</ul> 
+<ul> Use Py caret integrate with Power BI forecaster to create a predictive model and dashboard respectively that can forecast outcomes on newly gotten data that has undergone the ETL process.</ul> 
+
+
+
 
 <br>
 
