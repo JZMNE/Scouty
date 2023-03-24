@@ -1,0 +1,20 @@
+120 Years of Olympic History
+Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016. Each row corresponds to an individual athlete competing in an individual event, including the athlete's name, sex, age, height, weight, country, and medal, and the event's name, sport, games, year, and city.
+
+Recommended Analysis
+Analyze and visualize the % of athletes who were female over time.
+
+Compare and contrast the summer and the winter games...
+
+How many athletes compete?
+How many countries compete?
+How many events are there?
+Analyze and visualize country-level trends...
+Which countries send the most athletes to the olympics?
+Do they also tend to win the most medals?
+How have these trends changed over time?
+Want feedback on your solutions?
+Share visualizations (and any applicable pivot tables, code, etc) on LinkedIn and mention @Maven Analytics. We would love to see your work and give our thoughts!
+
+
+https://www.mavenanalytics.io/data-playground?page=3&pageSize=5#:~:text=120%20Years%20of%20Olympic%20History
