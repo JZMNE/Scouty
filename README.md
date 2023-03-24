@@ -11,8 +11,10 @@
   <a href="#data">Data</a> •
   <a href="#use-case">Use Case</a> •
   <a href="#scope">Scope</a> •
+  <a href="method">Method</a> •
   <a href="#language-and-tools">Languages & Tools</a> •
   <a href="#license">License</a>
+  
 </p>
 
 ---
@@ -28,6 +30,7 @@ The Olympic Games are the world's most prestigious sporting event, featuring the
 
 <p>The objective of this project is to create a dashboard that when a new athlete details it plugged in, it can predict the likelihood of an athlete winning a medal in the Olympic Games. By analyzing past data, we can identify patterns and trends that can help us predict future outcomes. </p>
 
+<p>I aim to utilize this project as a means to review and reinforce all the knowledge I have acquired thus far, while also creating a portfolio that I can submit to Maven Analytics for a chance to be featured on their website.</p>
 <br>
 
 ## :clipboard: **Problem Statement** 
@@ -63,25 +66,51 @@ From a business perspective, the predictive model can provide valuable insights 
 
 <br>
 
-## :sunglasses: **Something Unique** 
+
+## :paperclip: **Method** 
+1. Import Data as a CSV
+2. Separated Data with Nulls and determine its usefulness in Python EDA (Two Dataset - )
+3. Create an ETL solution to clean data
+4. Using SQL to build a Star schema model in SSMS for easy OLAP purposes.
+    - Building a dimensions.
+    - Building an all numeric fact Table
+    - Creating Buckets and Flags
+    - Creating a flat table of clean data for easy importation to Power BI for analysis.
+5. Step 2 will continue in python using numpy, pandas and seaborn library
+    - Records having more than 3 features missing will be eliminated
+    - Records having less than 1 featues missing will replaced using a suitable process (ffill, bfill, Average)
+    - Visualiztion of data - might use ydataprofiling to get a focus for the data.
+    - Create a Data Viz module to easy visualization across my data
+6. Using Pycaret to build a predictive model (might integrate explicit scikit learning fucntions)
+7. Build a Power BI dashboard using integrated with the model and PBI forecaster to create a predictive dashboard 
+
+<br>
+
+
+## :warning: **Something Unique** 
 > Still figuring it out the 10% that is not [crap](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
+
+> __This ReadMe is subject to changes as ideas comes and goes.__
 <h6><b> Rubber Duck Ideas </b></h6>
-<ul> Perform identical operations for data preparation and manipulation in SQL and Python. </ul> 
-<ul> Build an ETL process that transforms and loads the data into a suitable format for forecasting the performance of new athletes based on a spreadsheet file provided by an athletics scout.</ul> 
-<ul> Use Py caret integrate with Power BI forecaster to create a predictive model and dashboard respectively that can forecast outcomes on newly gotten data that has undergone the ETL process.</ul> 
 
-
-
+- Perform identical operations for data preparation and manipulation in SQL and Python.
+- Build an ETL process that transforms and loads the data into a suitable format for forecasting the performance of new athletes based on a spreadsheet file provided by an athletics scout.
+- Use Py caret integrate with Power BI forecaster to create a predictive model and dashboard respectively that can forecast outcomes on newly gotten data that has undergone the ETL process.
 
 <br>
 
 ## :speech_balloon: **Language and Tools** 
 
 <p align="left"> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </a> 
+    <a href="https://learn.microsoft.com/en-us/sql/integration-services/ssis-how-to-create-an-etl-package?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" alt="VisualStudio SSIS" width="60" height="60"/> </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="60" height="60"/> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="80"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> 
+    <a href="https://pycaret.org/" target="_blank" rel="noreferrer"> <img src="https://www.gitbook.com/cdn-cgi/image/width=60,dpr=2,height=60,fit=contain,format=auto/https%3A%2F%2F1927305171-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjAq5m5T7Qtz03TnB0Wve%252Ficon%252FKaPEfJEWupL6s9rsdFyF%252FGit%2520500-500_v5WhiteBG.png%3Falt%3Dmedia%26token%3D83cdee15-29e2-4fd3-8392-d1688963a063" alt="Pycaret" width="60" height="60"/> </a> 
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="90" height="60"/> </a> 
  </p>
 
 <br>
