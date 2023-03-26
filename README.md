@@ -76,9 +76,10 @@ From a business perspective, the predictive model can provide valuable insights 
     - Building an all numeric fact Table
     - Creating Buckets and Flags
     - Creating a flat table of clean data for easy importation to Power BI for analysis.
+    - Analysis showing cost of Insurance, cost of Medal per Country, cost per athlete and other common analysis of the olmpic data.
 5. Step 2 will continue in python using numpy, pandas and seaborn library
     - Records having more than 3 features missing will be eliminated
-    - Records having less than 1 featues missing will replaced using a suitable process (ffill, bfill, Average)
+    - Records having less than 1 features missing will replaced using a suitable process (ffill, bfill, Average)
     - Visualiztion of data - might use ydataprofiling to get a focus for the data.
     - Create a Data Viz module to easy visualization across my data
 6. Using Pycaret to build a predictive model (might integrate explicit scikit learning fucntions)
