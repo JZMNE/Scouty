@@ -1,7 +1,7 @@
 <h1 align="center" style="color:MediumSeaGreen;"> <b> PROJECT SCOUTY  </b></h1>
 
 
-<img src="https://media3.giphy.com/media/68QRW1GqBH5tFNGXPZ/giphy.gif?cid=ecf05e47z1isu886ykeb9dzundi12x98pbiekixmsjy715ez&rid=giphy.gif&ct=g" alt="Olympic Medals" width="800" align="center">
+<img src="https://media3.giphy.com/media/68QRW1GqBH5tFNGXPZ/giphy.gif?cid=ecf05e47z1isu886ykeb9dzundi12x98pbiekixmsjy715ez&rid=giphy.gif&ct=g" alt="Olympic Medals" width="1100" height = "450" align="center">
 
 
 <p align="center">
@@ -76,9 +76,10 @@ From a business perspective, the predictive model can provide valuable insights 
     - Building an all numeric fact Table
     - Creating Buckets and Flags
     - Creating a flat table of clean data for easy importation to Power BI for analysis.
+    - Analysis showing cost of Insurance, cost of Medal per Country, cost per athlete and other common analysis of the olmpic data.
 5. Step 2 will continue in python using numpy, pandas and seaborn library
     - Records having more than 3 features missing will be eliminated
-    - Records having less than 1 featues missing will replaced using a suitable process (ffill, bfill, Average)
+    - Records having less than 1 features missing will replaced using a suitable process (ffill, bfill, Average)
     - Visualiztion of data - might use ydataprofiling to get a focus for the data.
     - Create a Data Viz module to easy visualization across my data
 6. Using Pycaret to build a predictive model (might integrate explicit scikit learning fucntions)
@@ -88,9 +89,7 @@ From a business perspective, the predictive model can provide valuable insights 
 
 
 ## :warning: **Something Unique** 
-> Still figuring it out the 10% that is not [crap](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
-
-> __This ReadMe is subject to changes as ideas comes and goes.__
+> __This ReadMe is subject to changes as ideas comes and goes.__ Still figuring it out the 10% that is not [crap](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
 <h6><b> Rubber Duck Ideas </b></h6>
 
 - Perform identical operations for data preparation and manipulation in SQL and Python.
