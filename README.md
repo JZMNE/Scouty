@@ -68,9 +68,9 @@ From a business perspective, the predictive model can provide valuable insights 
 <br>
 
 ## :white_check_mark: **Method** 
-1. Data Cleaning
-2. Model Building in SQL
-3. Data Visualization in python using Pandas, Numpy, and plotly
+1. Data Cleaning ✔️ - Click [Here]() to view
+2. Model Building in SQL ✔️ - Click [Here]() to view
+3. Data Visualization in python using Pandas, Numpy, and plotly ✔️ - Click [Here]() to view
 4. Predictive Model with Scikit Learn and Yellow brick
 5. Machine Learning Pipeline Development (CD-CI)
 6. Build a Power BI dashboard using integrated with the model and PBI forecaster to create a predictive dashboard 
