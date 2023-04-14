@@ -1,7 +1,7 @@
 <h1 align="center" style="color:MediumSeaGreen;"> <b> PROJECT SCOUTY  </b></h1>
 
 
-<img src="https://media3.giphy.com/media/68QRW1GqBH5tFNGXPZ/giphy.gif?cid=ecf05e47z1isu886ykeb9dzundi12x98pbiekixmsjy715ez&rid=giphy.gif&ct=g" alt="Olympic Medals" width="1100" height = "450" align="center">
+<img src="https://sunrisevt.com/wp-content/uploads/2018/01/OLYMPICS-BANNER.jpg" alt="Olympic Medals" width="1100" align="center">
 
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## :white_check_mark: **Introduction** 
 <p>
-The Olympic Games are the world's most prestigious sporting event, featuring the world's best athletes competing for gold, silver, and bronze medals. With over a century of Olympic data, it is possible to use machine learning algorithms to predict which participant is likely to win a medal in a particular event. In this project, we will use Olympics data from 1896 to 2016 to develop a predictive model that can identify athletes who are most likely to win medals in their respective events. </p>
+The Olympic Games are the world's most prestigious sporting event, featuring the world's best athletes competing for gold, silver, and bronze medals. With over a century of Olympic data, it is possible to use machine learning algorithms to predict which participant is likely to win a medal in a particular event. In this project, we will use Olympics data from 1896 to 2016 to develop a predictive model that can identify athletes who are most likely to win medals in their respective events and will be tested on the Olympics data set of 2018 to 2022 as its unseen. Given that the games has occured in real life, we can determine how well the model can predict.</p>
 
 <br>
 
@@ -30,7 +30,6 @@ The Olympic Games are the world's most prestigious sporting event, featuring the
 
 <p>The objective of this project is to create a dashboard that when a new athlete details it plugged in, it can predict the likelihood of an athlete winning a medal in the Olympic Games. By analyzing past data, we can identify patterns and trends that can help us predict future outcomes. </p>
 
-<p>I aim to utilize this project as a means to review and reinforce all the knowledge I have acquired thus far, while also creating a portfolio that I can submit to Maven Analytics for a chance to be featured on their website.</p>
 <br>
 
 ## :white_check_mark: **Problem Statement** 
@@ -41,11 +40,13 @@ The Olympic Games are highly competitive events, with thousands of athletes comp
 
 ## :white_check_mark: **Data** 
 
-The project will use [Olympics](https://www.mavenanalytics.io/data-playground?page=3&pageSize=5) data from 1896 to 2016, which includes information on athletes, events, and medal winners. The dataset includes a range of features such as age, gender, sport, and country. The data will be preprocessed and cleaned to ensure that it is suitable for machine learning analysis.
+ - [Olympics Athlete Data 1896 to 2016](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?resource=download) 
+ - [Olympics Website](https://olympics.com/en/olympic-games)
+ - [Olympics Doping Data](https://en.wikipedia.org/wiki/Doping_at_the_Olympic_Games)
+ - [Cost of Olympics Hosting](https://en.wikipedia.org/wiki/Cost_of_the_Olympic_Games)
+ - [Medal Cost](https://en.wikipedia.org/wiki/Incentives_for_Olympic_medalists_by_country)
 
 <br>
-<br>
-
 
 ## :white_check_mark:  **Use Case**  
 
@@ -59,42 +60,22 @@ The predictive model developed in this project has several potential use cases:
 ##  :white_check_mark: **Scope** 
 
 `'Technical'` <br>
-From a technical perspective, the project involves data preprocessing and cleaning, feature engineering, model selection, and evaluation. The machine learning algorithms used will include regression, classification, and clustering techniques. 
+From a technical perspective, the project involves data preprocessing and cleaning, feature engineering, model selection, and evaluation. The machine learning algorithms used will include classification techniques
 
 `'Business'` <br>
 From a business perspective, the predictive model can provide valuable insights for coaches, athletes, and sports analysts, helping them make more informed decisions and optimize performance.
 
 <br>
 
-
 ## :white_check_mark: **Method** 
-1. Import Data as a CSV
-2. Separated Data with Nulls and determine its usefulness in Python EDA (Two Dataset - )
-3. Create an ETL solution to clean data
-4. Using SQL to build a Star schema model in SSMS for easy OLAP purposes.
-    - Building a dimensions.
-    - Building an all numeric fact Table
-    - Creating Buckets and Flags
-    - Creating a flat table of clean data for easy importation to Power BI for analysis.
-    - Analysis showing cost of Insurance, cost of Medal per Country, cost per athlete and other common analysis of the olmpic data.
-5. Step 2 will continue in python using numpy, pandas and seaborn library
-    - Records having more than 3 features missing will be eliminated
-    - Records having less than 1 features missing will replaced using a suitable process (ffill, bfill, Average)
-    - Visualiztion of data - might use ydataprofiling to get a focus for the data.
-    - Create a Data Viz module to easy visualization across my data
-6. Using Pycaret to build a predictive model (might integrate explicit scikit learning fucntions)
-7. Build a Power BI dashboard using integrated with the model and PBI forecaster to create a predictive dashboard 
+1. Data Cleaning
+2. Model Building in SQL
+3. Data Visualization in python using Pandas, Numpy, and plotly
+4. Predictive Model with Scikit Learn and Yellow brick
+5. Machine Learning Pipeline Development (CD-CI)
+6. Build a Power BI dashboard using integrated with the model and PBI forecaster to create a predictive dashboard 
 
-<br>
-
-
-## :white_check_mark: **Something Unique** 
-> __This ReadMe is subject to changes as ideas comes and goes.__ Still figuring it out the 10% that is not [crap](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
-<h6><b> Rubber Duck Ideas </b></h6>
-
-- Perform identical operations for data preparation and manipulation in SQL and Python.
-- Build an ETL process that transforms and loads the data into a suitable format for forecasting the performance of new athletes based on a spreadsheet file provided by an athletics scout.
-- Use Py caret integrate with Power BI forecaster to create a predictive model and dashboard respectively that can forecast outcomes on newly gotten data that has undergone the ETL process.
+> Note: [The Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
 
 <br>
 
