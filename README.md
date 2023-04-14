@@ -99,7 +99,7 @@ From a business perspective, the predictive model can provide valuable insights 
 
 ## :white_check_mark: **License**  
 
-<p>Scouty is license under the [MIT license](https://github.com/JZMNE/Scouty/blob/main/LICENSE). </p>
+Scouty is license under the [MIT](https://github.com/JZMNE/Scouty/blob/main/LICENSE) license.
 
 © <i>2023 Jazmine N </i>
 
