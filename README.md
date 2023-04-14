@@ -1,4 +1,4 @@
-<h1 align="center" style="color:MediumSeaGreen;"> <b> PROJECT SCOUTY  </b></h1>
+<h1 align="center" style="color:MediumSeaGreen;"> <b> THE OLYMPICS (In Progress) </b></h1>
 
 
 <img src="https://sunrisevt.com/wp-content/uploads/2018/01/OLYMPICS-BANNER.jpg" alt="Olympic Medals" width="1100" align="center">
