@@ -11,7 +11,7 @@
   <a href="#data">Data</a> •
   <a href="#use-case">Use Case</a> •
   <a href="#scope">Scope</a> •
-  <a href="method">Method</a> •
+  <a href="method">Progress</a> •
   <a href="#language-and-tools">Languages & Tools</a> •
   <a href="#license">License</a>
   
@@ -67,7 +67,7 @@ From a business perspective, the predictive model can provide valuable insights 
 
 <br>
 
-## :white_check_mark: **Method** 
+## :white_check_mark: **Progress** 
 1. Data Cleaning ✔️ - Click [Here](https://github.com/JZMNE/The-Olympics/blob/main/InitialDataCleaning.ipynb) to view
 2. Model Building in SQL ✔️ - Click [Here](https://github.com/JZMNE/The-Olympics/blob/main/Schema%20Modelling.sql) to view
 3. Data Visualization in python using Pandas, Numpy, and plotly 
