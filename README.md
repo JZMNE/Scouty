@@ -19,13 +19,13 @@
 
 ---
 
-## :round_pushpin: **Introduction** 
+## :white_check_mark: **Introduction** 
 <p>
 The Olympic Games are the world's most prestigious sporting event, featuring the world's best athletes competing for gold, silver, and bronze medals. With over a century of Olympic data, it is possible to use machine learning algorithms to predict which participant is likely to win a medal in a particular event. In this project, we will use Olympics data from 1896 to 2016 to develop a predictive model that can identify athletes who are most likely to win medals in their respective events. </p>
 
 <br>
 
-## 🎯 **Objective** 
+## :white_check_mark: **Objective** 
 <p >The project aims to leverage ETL pipelines and machine learning techniques to analyze Olympics data and develop a predictive model that can identify athletes most likely to win medals in their respective events. The model will use a range of features, such as an athlete's age, gender, height, weight and other relevant factors to predict their chances of winning a medal. </p>
 
 <p>The objective of this project is to create a dashboard that when a new athlete details it plugged in, it can predict the likelihood of an athlete winning a medal in the Olympic Games. By analyzing past data, we can identify patterns and trends that can help us predict future outcomes. </p>
@@ -33,13 +33,13 @@ The Olympic Games are the world's most prestigious sporting event, featuring the
 <p>I aim to utilize this project as a means to review and reinforce all the knowledge I have acquired thus far, while also creating a portfolio that I can submit to Maven Analytics for a chance to be featured on their website.</p>
 <br>
 
-## :clipboard: **Problem Statement** 
+## :white_check_mark: **Problem Statement** 
 
 The Olympic Games are highly competitive events, with thousands of athletes competing for medals. It is difficult to identify which athlete is most likely to win a medal in a particular event, as there are many factors that can influence an athlete's performance. This project aims to solve this problem by using machine learning algorithms to analyze past Olympics data and predict which athlete is most likely to win a medal in their respective event.
 
 <br>
 
-## :bar_chart:  **Data** 
+## :white_check_mark: **Data** 
 
 The project will use [Olympics](https://www.mavenanalytics.io/data-playground?page=3&pageSize=5) data from 1896 to 2016, which includes information on athletes, events, and medal winners. The dataset includes a range of features such as age, gender, sport, and country. The data will be preprocessed and cleaned to ensure that it is suitable for machine learning analysis.
 
@@ -56,7 +56,7 @@ The predictive model developed in this project has several potential use cases:
 
 <br>
 
-##  :wrench: **Scope** 
+##  :white_check_mark: **Scope** 
 
 `'Technical'` <br>
 From a technical perspective, the project involves data preprocessing and cleaning, feature engineering, model selection, and evaluation. The machine learning algorithms used will include regression, classification, and clustering techniques. 
@@ -67,7 +67,7 @@ From a business perspective, the predictive model can provide valuable insights 
 <br>
 
 
-## :paperclip: **Method** 
+## :white_check_mark: **Method** 
 1. Import Data as a CSV
 2. Separated Data with Nulls and determine its usefulness in Python EDA (Two Dataset - )
 3. Create an ETL solution to clean data
@@ -88,7 +88,7 @@ From a business perspective, the predictive model can provide valuable insights 
 <br>
 
 
-## :warning: **Something Unique** 
+## :white_check_mark: **Something Unique** 
 > __This ReadMe is subject to changes as ideas comes and goes.__ Still figuring it out the 10% that is not [crap](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
 <h6><b> Rubber Duck Ideas </b></h6>
 
@@ -98,7 +98,7 @@ From a business perspective, the predictive model can provide valuable insights 
 
 <br>
 
-## :speech_balloon: **Language and Tools** 
+## :white_check_mark: **Language and Tools** 
 
 <p align="left"> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </a> 
@@ -115,7 +115,7 @@ From a business perspective, the predictive model can provide valuable insights 
 <br>
 
 
-## :exclamation: **License**  
+## :white_check_mark: **License**  
 
 <p>Scouty is license under the MIT license. </p>
 
@@ -140,3 +140,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=JZMN&label=Project%20Views&color=3&icon=3&pretty=true)](https://visitcount.itsvg.in)
