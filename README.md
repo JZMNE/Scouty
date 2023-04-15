@@ -68,7 +68,7 @@ From a business perspective, the predictive model can provide valuable insights 
 <br>
 
 ## :white_check_mark: **Progress** 
-1. Data Cleaning ✔️ - Click [Here](https://github.com/JZMNE/The-Olympics/blob/main/InitialDataCleaning.ipynb) to view
+1. Data Cleaning ✔️ - Click [Here](https://nbviewer.org./github/JZMNE/The-Olympics/blob/main/InitialDataCleaning.ipynb) to view
 2. Model Building in SQL ✔️ - Click [Here](https://github.com/JZMNE/The-Olympics/blob/main/Schema%20Modelling.sql) to view
 3. Data Visualization in python using Pandas, Numpy, and plotly 
 4. Predictive Model with Scikit Learn and Yellow brick
