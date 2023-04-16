@@ -42,7 +42,6 @@ The Olympic Games are highly competitive events, with thousands of athletes comp
 
  - [Olympics Athlete Data 1896 to 2016](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?resource=download) 
  - [Olympics Website](https://olympics.com/en/olympic-games)
- - [Olympics Doping Data](https://en.wikipedia.org/wiki/Doping_at_the_Olympic_Games)
  - [Cost of Olympics Hosting](https://journals.sagepub.com/doi/full/10.1177/0308518X20958724)
  - [Medal Cost](https://en.wikipedia.org/wiki/Incentives_for_Olympic_medalists_by_country)
 
