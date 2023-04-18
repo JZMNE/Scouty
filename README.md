@@ -70,9 +70,8 @@ From a business perspective, the predictive model can provide valuable insights 
 1. Data Cleaning ✔️ - Click [Here](https://nbviewer.org./github/JZMNE/The-Olympics/blob/main/InitialDataCleaning.ipynb) to view
 2. Model Building in SQL ✔️ - Click [Here](https://github.com/JZMNE/The-Olympics/blob/main/Schema%20Modelling.sql) to view
 3. Data Visualization in python using Pandas and plotly ✔️ - Click [Here](https://nbviewer.org./github/JZMNE/The-Olympics/blob/main/Python%20Visualization.ipynb) to view
-4. Predictive Model with Scikit Learn and Yellow brick
-5. Machine Learning Pipeline Development (CD-CI)
-6. Build a Power BI dashboard using integrated with the model and PBI forecaster to create a predictive dashboard 
+4. Predictive Model with Scikit Learn and Pycaret ✔️ - Click [Here](https://nbviewer.org./github/JZMNE/The-Olympics/blob/main/.ipynb) to view
+5. Build a Webpage using integrated with the model and PBI forecaster to create a predictive dashboard 
 
 > Note: [The Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
 
