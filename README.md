@@ -71,10 +71,12 @@ From a business perspective, the predictive model can provide valuable insights 
 2. Model Building in SQL ✔️ - Click [Here](https://github.com/JZMNE/The-Olympics/blob/main/Schema%20Modelling.sql) to view
 3. Data Visualization in python using Pandas and plotly ✔️ - Click [Here](https://nbviewer.org./github/JZMNE/The-Olympics/blob/main/Python%20Visualization.ipynb) to view
 4. Predictive Model with Scikit Learn and Pycaret ✔️ - Click [Here](https://nbviewer.org./github/JZMNE/The-Olympics/blob/main/ML%20Pipeline%20Using%20Scikit%20Learn.ipynb.) to view
-5. Build a predictive function with  the following metrics score ✔️ - Click [Here](https://nbviewer.org./github/JZMNE/The-Olympics/blob/main/ML%20Pipeline%20Using%20Scikit%20Learn.ipynb) to view
-- `Accuracy`: 86.4% 
-- `Precision`: 85.2%
-- `Recall`: 86.4%
+5. Build a predictive function with  the following metrics score ✔️ - Click [Here](https://nbviewer.org./github/JZMNE/The-Olympics/blob/main/AthPred.py)) to view
+- `Accuracy`: `86.4%` 
+- `Precision`: `85.2%`
+- `Recall`: `86.4%`
+-
+<img src="https://sunrisevt.com/wp-content/uploads/2018/01/OLYMPICS-BANNER.jpg" alt="George Box Quote" width="500" align="center">
 
 >  [Quote by George Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
 >  [The Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
