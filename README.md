@@ -75,10 +75,13 @@ From a business perspective, the predictive model can provide valuable insights 
 - `Accuracy`: `86.4%` 
 - `Precision`: `85.2%`
 - `Recall`: `86.4%`
--
- <img src="https://github.com/JZMNE/The-Olympics/blob/main/quote.jpg" alt="George Box Quote" width="500" align="center">
+
+ <img src="https://github.com/JZMNE/The-Olympics/blob/main/quote.jpg" alt="George Box Quote" width="300" align="center">
+ 
+ <br>
 
 >  [Quote by George Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
+>   <br>
 >  [The Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
 
 <br>
