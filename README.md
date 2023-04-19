@@ -21,14 +21,13 @@
 
 ## :white_check_mark: **Introduction** 
 <p>
-The Olympic Games are the world's most prestigious sporting event, featuring the world's best athletes competing for gold, silver, and bronze medals. With over a century of Olympic data, it is possible to use machine learning algorithms to predict which participant is likely to win a medal in a particular event. In this project, we will use Olympics data from 1896 to 2016 to develop a predictive model that can identify athletes who are most likely to win medals in their respective events and will be tested on the Olympics data set of 2018 to 2022 as its unseen. Given that the games has occured in real life, we can determine how well the model can predict.</p>
-
+The Olympic Games are the world's most prestigious sporting event, featuring the world's best athletes competing for gold, silver, and bronze medals. With over a century of Olympic data, it is possible to use machine learning algorithms to predict which participant is likely to win a medal in a particular event. In this project, we will use Olympics data from 1896 to 2016 to develop a predictive model that can identify athletes who are most likely to win medals in their respective events.
 <br>
 
 ## :white_check_mark: **Objective** 
 <p >The project aims to leverage ETL pipelines and machine learning techniques to analyze Olympics data and develop a predictive model that can identify athletes most likely to win medals in their respective events. The model will use a range of features, such as an athlete's age, gender, height, weight and other relevant factors to predict their chances of winning a medal. </p>
 
-<p>The objective of this project is to create a dashboard that when a new athlete details it plugged in, it can predict the likelihood of an athlete winning a medal in the Olympic Games. By analyzing past data, we can identify patterns and trends that can help us predict future outcomes. </p>
+<p>The objective of this project is to create a predictive function that when a new athlete details it plugged in, it can predict the likelihood of an athlete winning a medal in the Olympic Games. By analyzing past data, we can identify patterns and trends that can help us predict future outcomes. </p>
 
 <br>
 
