@@ -76,7 +76,8 @@ From a business perspective, the predictive model can provide valuable insights 
 - `Precision`: 85.2%
 - `Recall`: 86.4%
 
-> Note: [The Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
+>  [Quote by George Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
+>  [The Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
 
 <br>
 
