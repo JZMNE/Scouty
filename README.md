@@ -74,6 +74,7 @@ From a business perspective, the predictive model can provide valuable insights 
 - `Accuracy`: `86.4%` 
 - `Precision`: `85.2%`
 - `Recall`: `86.4%`
+6. Click [here](https://www.youtube.com/watch?v=ANqaJvBj9EU&t=349s) to watch the video
 
  <img src="https://github.com/JZMNE/The-Olympics/blob/main/quote.jpg" alt="George Box Quote" width="300" align="center">
  
